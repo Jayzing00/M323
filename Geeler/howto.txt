@@ -1,0 +1,3 @@
+Sie haben Ihren persönlichen Ordner auf diesem Git.
+Eine Unterstruktur können Sie selber bestimmen.
+Geben Sie ihre jeweiligen Arbeiten, in Ihrem Ordner, via Git ab.
